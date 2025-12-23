@@ -26,8 +26,6 @@ https://doi.org/10.1016/j.soilbio.2022.108754
 
 ## Full Publication List
 
-<h2>Publications</h2>
-
 <div class="cv-pub">
 [1] Zheng, H., Vesterdal, L., Agathokleous, E., Yuan, X., Yuan, M., Xu, Y., ... &amp; Rousk, J. (2024).
 Ozone strengthens the ex vivo but weakens the in vivo pathway of the microbial carbon pump in poplar plantations.
