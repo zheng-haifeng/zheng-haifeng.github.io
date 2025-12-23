@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 nav: true
-sidebar: false          # 如果 layout 支持
+disable_sidebar: true
 ---
 
 ---
