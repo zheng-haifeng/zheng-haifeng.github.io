@@ -364,3 +364,10 @@ header_pages:
   - _pages/about.md
   - _pages/publications.md
   - _pages/about-cn.md
+# Site Settings
+title: Haifeng Zheng
+description: Soil Microbial Ecology
+
+# Navigation
+navigation:
+  main: navigation
