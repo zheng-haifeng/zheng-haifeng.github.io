@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 nav: true
-disable_sidebar: true
+disable_sidebar: false
 ---
 
 ---
