@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{% unless page.disable_sidebar %}
+  {% include sidebar.html %}
+{% endunless %}
 
 {% include base_path %}
 
