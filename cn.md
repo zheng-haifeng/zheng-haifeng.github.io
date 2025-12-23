@@ -4,6 +4,7 @@ title: "郑海峰"
 permalink: /cn/
 author_profile: false
 lang: zh
+disable_sidebar: false
 ---
 
 # 郑海峰 博士  
