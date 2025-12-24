@@ -25,7 +25,7 @@ Effects of common European tree species on soil microbial resource limitation, m
 *Soil Biology and Biochemistry*, **172**, 108754.  
 https://doi.org/10.1016/j.soilbio.2022.108754
 
----
+
 
 ## Full Publication List
 
