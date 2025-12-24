@@ -69,12 +69,12 @@ disable_sidebar: false
 
 **Zheng, H.**, Vesterdal, L., Agathokleous, E., Yuan, X., Yuan, M., Xu, Y., et al. (2024).  
 Ozone strengthens the ex vivo but weakens the in vivo pathway of the microbial carbon pump in poplar plantations.  
-*Soil Biology and Biochemistry*, **198**, 109559. ⭐ *ESI Highly Cited Paper*  
+*Soil Biology and Biochemistry*, **198**, 109559. 
 https://doi.org/10.1016/j.soilbio.2024.109559
 
 **Zheng, H.**, Vesterdal, L., Schmidt, I. K., & Rousk, J. (2022).  
 Ecoenzymatic stoichiometry can reflect microbial resource limitation, substrate quality, or both in forest soil.  
-*Soil Biology and Biochemistry*, **167**, 108613.  
+*Soil Biology and Biochemistry*, **167**, 108613.  ⭐ *ESI Highly Cited Paper*  
 https://doi.org/10.1016/j.soilbio.2022.108613
 
 **Zheng, H.**, Heděnec, P., Rousk, J., Schmidt, I. K., Peng, Y., & Vesterdal, L. (2022).  
@@ -86,9 +86,9 @@ https://doi.org/10.1016/j.soilbio.2022.108754
 
 ---
 
-## 研究生招生
+## 研究生和本科生招生
 
-招生专业：**农业工程与信息技术**  
+招生专业：**生态学** **农业工程与信息技术**  
 欢迎具有生态学、环境科学、土壤学、生物学等背景的同学报考。
 
 可指导内容包括但不限于：
