@@ -31,12 +31,10 @@ author:
   employer  : "Nanjing University of Information Science and Technology (NUIST)"
   email     : "zheng.hf@outlook.com"
 
-  googlescholar : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  researchgate  : "Haifeng-Zheng-5"
+  googlescholar : "https://scholar.google.com/citations?user=lCu5ausAAAAJ&hl"
+  researchgate  : "https://www.researchgate.net/profile/Haifeng-Zheng-5"
   orcid         : "https://orcid.org/0000-0002-1999-1276"   # <- 改成你的真实 ORCID
-  pubmed        : ""                                       # 不用就留空
-  github        : ""                                       # 不用就留空
-  bluesky       : ""                                       # 不用就留空
+
 
 
 
