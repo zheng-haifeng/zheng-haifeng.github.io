@@ -41,8 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Sidebar employer line wrap */
-.author__meta .author__name + span {
+/* Sidebar meta lines wrap (location/employer/email etc.) */
+.author__meta,
+.author__meta * {
   white-space: normal;
   word-break: break-word;
+  overflow-wrap: anywhere;
 }
