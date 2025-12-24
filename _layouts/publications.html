@@ -1,10 +1,6 @@
-{% assign page.rendered_sidebar = true %}
-<div class="container">
-  <div class="main-content">
-    {{ content }}
-  </div>
+<main class="main-content {{ page.classes }}">
+  {{ content }}
 
-  <div class="sidebar">
-    {% include sidebar.html %}
-  </div>
-</div>
+  {% assign page.rendered_sidebar = true %}
+  {% include sidebar.html %}
+</main>
