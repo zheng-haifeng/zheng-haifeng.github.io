@@ -6,8 +6,6 @@ nav: true
 disable_sidebar: false
 ---
 
----
-
 ## Selected Publications
 
 **Zheng, H.**, Vesterdal, L., Agathokleous, E., Yuan, X., Yuan, M., Xu, Y., et al. (2024).  
