@@ -67,21 +67,6 @@ disable_sidebar: false
 
 ## 代表性论文
 
-**Zheng, H.**, Vesterdal, L., Agathokleous, E., Yuan, X., Yuan, M., Xu, Y., et al. (2024).  
-Ozone strengthens the ex vivo but weakens the in vivo pathway of the microbial carbon pump in poplar plantations.  
-*Soil Biology and Biochemistry*, **198**, 109559. 
-https://doi.org/10.1016/j.soilbio.2024.109559
-
-**Zheng, H.**, Vesterdal, L., Schmidt, I. K., & Rousk, J. (2022).  
-Ecoenzymatic stoichiometry can reflect microbial resource limitation, substrate quality, or both in forest soil.  
-*Soil Biology and Biochemistry*, **167**, 108613.  ⭐ *ESI Highly Cited Paper*  
-https://doi.org/10.1016/j.soilbio.2022.108613
-
-**Zheng, H.**, Heděnec, P., Rousk, J., Schmidt, I. K., Peng, Y., & Vesterdal, L. (2022).  
-Effects of common European tree species on soil microbial resource limitation, microbial communities and soil carbon.  
-*Soil Biology and Biochemistry*, **172**, 108754.  
-https://doi.org/10.1016/j.soilbio.2022.108754
-
 👉 **完整论文列表请见英文主页 Publications 页面。**
 
 ---
