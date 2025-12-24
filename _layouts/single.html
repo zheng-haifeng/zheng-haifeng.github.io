@@ -7,9 +7,12 @@ permalink: /
 disable_sidebar: false
 ---
 
-{% if page.disable_sidebar != true %}
+<main class="main-content {{ page.classes }}">
+  {{ content }}
+
   {% include sidebar.html %}
-{% endif %}
+</main>
+
 
 
 {% include base_path %}
